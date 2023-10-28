@@ -946,10 +946,12 @@
       <a name="appearance" val="logisim_evolution"/>
       <a name="contents">addr/data: 10 8
 60 84 a 0 a0 48 0 0
-6f 88 0 0 ee 88 0 0
-30 0 fd ff 25 8c a 0
-33 0 2 0 30 0 f9 ff
-20 51 a 0 14
+c0 84 0 0 25 cc a f0
+30 0 7 0 20 d1 ff ff
+33 0 3 0 6e 9 0 0
+15 0 0 0 2f 9 0 0
+14 0 0 0 20 11 0 0
+15
 </a>
       <a name="line" val="quad"/>
     </comp>
